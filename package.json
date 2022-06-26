@@ -25,5 +25,10 @@
   "devDependencies": {
     "eslint": "8.18.0",
     "eslint-config-next": "12.1.6"
+  },
+  "resolutions": {
+    "eslint-plugin-react": "7.28.0"
   }
 }
+
+
